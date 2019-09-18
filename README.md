@@ -2,7 +2,6 @@
 
 This app design is my AP Studio Art final project.
 
-[![](https://img.shields.io/badge/Check-Artist_statement-orange?longCache=true&style=for-the-badge)](fin/artist-statement.md)
 [![](https://img.shields.io/badge/Check-Sketch-FAA929?longCache=true&style=for-the-badge)](mykmla.sketch)
 [![](https://img.shields.io/badge/Check-Behance-1769FF?longCache=true&style=for-the-badge)](https://www.behance.net/gallery/81414193/-(Korean-Minjok-Leadership-Academy-App-Design))
 
